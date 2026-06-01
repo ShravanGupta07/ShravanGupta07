@@ -8,7 +8,7 @@
  I love building intelligent systems, exploring new technologies, and solving real-world problems using data, AI, and creative engineering.  
 Currently, I’m focused on AI/ML, web development, and innovative projects.
 
-- 📫 Email: Shravanguptamail@gmail.com
+- 📫 Email: Shravan3333m@gmail.com
 - 💼 LinkedIn: [Shravan Gupta](https://www.linkedin.com/in/shravan-gupta-b785712a5/)
 
 ---
