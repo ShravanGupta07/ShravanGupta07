@@ -10,6 +10,7 @@ Currently, I’m focused on AI/ML, web development, and innovative projects.
 
 - 📫 Email: Shravan3333m@gmail.com
 - 💼 LinkedIn: [Shravan Gupta](https://www.linkedin.com/in/shravan-gupta-b785712a5/)
+- 💼 Portfolio: [Shravan Gupta](https://shravangupta.dev/)
 
 ---
 
