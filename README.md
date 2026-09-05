@@ -27,7 +27,7 @@
 <div align="center">
   <h2>⚡ GitHub Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravanGupta07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ShravanGupta07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7AA2F7&title_color=7AA2F7&text_color=A9B1D6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShravanGupta07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7AA2F7&title_color=7AA2F7&text_color=A9B1D6&v=1" alt="GitHub Stats" />
 </div>
 
 <br/>
