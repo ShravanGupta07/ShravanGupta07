@@ -1,58 +1,46 @@
-# 👋 Hi, I'm Shravan Gupta!
+<div align="center">
+  <h1>👋 Hi, I'm Shravan Gupta</h1>
+  <p><b>Developer, UI/UX Designer & AI Enthusiast</b></p>
+  <p>Building intelligent systems, crafting high-density futuristic interfaces, and solving real-world problems through creative engineering.</p>
+</div>
 
-I'm a developer and UI/UX designer passionate about building intelligent systems and creating high-end, futuristic web experiences. From crafting complex AI integrations to designing stunning interfaces with glassmorphism and 3D elements, I love solving real-world problems through creative engineering.
+<br/>
 
-<p align="left">
-  <a href="mailto:Shravan3333m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shravan-gupta-b785712a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://shravangupta.dev/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://youtube.com/@Rustyy"><img src="https://img.shields.io/badge/YouTube_|_Rustyy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  
+  <p><b>Frontend & Design</b></p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,html,css,figma,vite" alt="Frontend Tech Stack" />
+  
+  <br/>
+  <p><b>Backend & Database</b></p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,firebase,supabase,postgres" alt="Backend Tech Stack" />
+  
+  <br/>
+  <p><b>AI/ML & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,linux" alt="AI and Tools" />
+</div>
 
----
+<br/>
 
-## 💡 Tech Stack & Skills
+<div align="center">
+  <h2>⚡ GitHub Stats</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravanGupta07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShravanGupta07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
 
-**Languages:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
 
-**Frontend & UI/UX:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+  <h2>🐍 Contributions Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShravanGupta07/ShravanGupta07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShravanGupta07/ShravanGupta07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShravanGupta07/ShravanGupta07/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
 
-**Backend & Database:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**AI / Machine Learning:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ShravanGupta07?style=for-the-badge&logo=github&label=Followers&color=252525">
-  <img src="https://img.shields.io/github/stars/ShravanGupta07?style=for-the-badge&logo=github&label=Stars&color=252525">
-  <img src="https://komarev.com/ghpvc/?username=ShravanGupta07&style=for-the-badge&label=Profile+Views&color=252525">
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanGupta07&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
----
+<br/>
 
 ## 🏆 Open Source Impact
 
@@ -74,10 +62,10 @@ I'm a developer and UI/UX designer passionate about building intelligent systems
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Research
 
 ### [EventEco](#)
-A highly-polished, enterprise-grade secure infrastructure platform built for government and corporate events. Designed with high-density information layouts, 3D UI elements, and smooth modern animations.
+An enterprise-grade secure infrastructure platform built for government and corporate events. Engineered with a focus on modern web aesthetics, utilizing Vite, Framer Motion, glassmorphism, and high-density 3D UI elements for a premium user experience.
 
 ### [SolvYaar – AI-Powered Math Learning Platform](https://github.com/Bhavnakumari-solanki-15/SolvYaar-Clean)
 Transforming how students learn math through interactive exercises and personalized AI assistance.  
@@ -85,20 +73,36 @@ Transforming how students learn math through interactive exercises and personali
 * **Tech:** React, Node.js, Groq API, Solidity, Supabase.
 
 ### [WanderTrails India](#)
-A modern tourism portal designed to help travelers discover and explore offbeat destinations across India, featuring smart itinerary integrations and an immersive web interface.
+A comprehensive tourism web portal designed to help travelers discover and explore offbeat destinations across India.
+
+### [Sustainable AI Data Centers](#)
+Conducted research and delivered a paper presentation focusing on green computing and the future of sustainable AI data center infrastructure in India.
 
 ### [GDG-GreenThumb-AI](https://github.com/ShravanGupta07/GDG-GreenThumb-AI)
-An AI-powered gardening assistant that helps users identify plants, diagnose diseases, and get personalized gardening tips using computer vision.  
-* **Tech:** TypeScript, React, Computer Vision.
-
-### [InsightBot](https://github.com/ShravanGupta07/Insight-bot)
-An intelligent analytics assistant designed to automate data collection and deliver actionable insights from social media platforms utilizing NLP for sentiment analysis.  
-* **Tech:** Python, APIs, Data Visualization Libraries.
+An AI-powered gardening assistant leveraging computer vision to identify plants, diagnose diseases, and provide personalized care recommendations.
 
 ---
 
 ## 🌱 Beyond the Code
 
-When I'm not writing code or debugging, you can usually find me diving into open-source robotics like the InMoov project, grinding competitive matches in Valorant, or researching green computing and sustainable AI data centers.
+When I'm not writing code or refining UI layouts, I enjoy diving into open-source humanoid robotics like the InMoov project. You can also catch me grinding ranks in Valorant on my YouTube channel, **Rustyy**, or appreciating a clever piece of Hinglish wordplay.
 
-I'm always open to learning, collaborating, and contributing to open-source. Feel free to reach out for project collaborations, UI/UX discussions, or just to talk tech!
+<br/>
+
+<div align="center">
+  <h2>🤝 Let's Connect</h2>
+  <p><i>Always up for open-source collabs, UI/UX discussions, or talking tech.</i></p>
+  
+  <a href="https://shravangupta.dev/">
+    <img src="https://img.shields.io/badge/Website-212121?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shravan-gupta-b785712a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Shravan3333m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://youtube.com/@Rustyy">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
