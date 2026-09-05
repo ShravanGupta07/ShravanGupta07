@@ -29,23 +29,19 @@ Currently, I’m focused on AI/ML, web development, and innovative projects.
 ## 🏆 Open Source Impact
 
 <!-- STATS_2026_START -->
-
 ### 📅 2026
 
 | 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
 |---:|---:|---:|
-| **0** | **0** | **0** |
-
+| **14** | **1** | **14** |
 <!-- STATS_2026_END -->
 
 <!-- STATS_2025_START -->
-
 ### 📅 2025
 
 | 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
 |---:|---:|---:|
-| **0** | **0** | **0** |
-
+| **15** | **2** | **17** |
 <!-- STATS_2025_END -->
 
 ---
