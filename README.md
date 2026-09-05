@@ -63,3 +63,19 @@ When I'm not writing code or debugging, I'm usually reading up on the latest AI 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<!-- STATS_2026_START -->
+### 📅 2026
+
+| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
+|---:|---:|---:|
+| **63** | **5** | **87** |
+<!-- STATS_2026_END -->
+
+<!-- STATS_2025_START -->
+### 📅 2025
+
+| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
+|---:|---:|---:|
+| **16** | **2** | **18** |
+<!-- STATS_2025_END -->
