@@ -13,7 +13,56 @@ Currently, I’m focused on AI/ML, web development, and innovative projects.
 - 🧑‍💻 Portfolio: [Shravan Gupta](https://shravangupta.dev/)
 
 ---
+---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanGupta07&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🏆 Open Source Impact
+
+<!-- STATS_2026_START -->
+
+### 📅 2026
+
+| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
+|---:|---:|---:|
+| **0** | **0** | **0** |
+
+<!-- STATS_2026_END -->
+
+<!-- STATS_2025_START -->
+
+### 📅 2025
+
+| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
+|---:|---:|---:|
+| **0** | **0** | **0** |
+
+<!-- STATS_2025_END -->
+
+---
+
+## 🏅 GitHub
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/ShravanGupta07?style=for-the-badge&logo=github&label=Followers">
+
+<img src="https://img.shields.io/github/stars/ShravanGupta07?style=for-the-badge&logo=github&label=Stars">
+
+<img src="https://komarev.com/ghpvc/?username=ShravanGupta07&style=for-the-badge&label=Profile+Views">
+
+</p>
+
+---
 ## 💡 Skills
 
 - **Languages:** Java, Python, JavaScript, SQL
