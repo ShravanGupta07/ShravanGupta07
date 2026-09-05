@@ -63,6 +63,16 @@ Currently, I’m focused on AI/ML, web development, and innovative projects.
 </p>
 
 ---
+
+## 🏆 Open Source Impact
+
+<!-- STATS_2026_START -->
+<!-- STATS_2026_END -->
+
+<!-- STATS_2025_START -->
+<!-- STATS_2025_END -->
+
+
 ## 💡 Skills
 
 - **Languages:** Java, Python, JavaScript, SQL
