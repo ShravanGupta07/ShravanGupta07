@@ -26,10 +26,9 @@ jobs:
 
       - name: Generate GitHub statistics
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           GITHUB_USERNAME: ShravanGupta07
-        run: |
-          python scripts/github_stats.py
+        run: python scripts/github_stats.py
 
       - name: Update README
         run: |
@@ -41,6 +40,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update GitHub statistics"
+            git commit -m "chore: update GitHub statistics [skip ci]"
             git push
           fi
