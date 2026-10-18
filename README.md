@@ -5,25 +5,6 @@
   <p>🌐 <b>Portfolio:</b> <a href="https://shravangupta.dev">shravangupta.dev</a></p>
 </div>
 
-<br/>
-
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  
-  <p><b>Frontend & Design</b></p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,html,css,vite" alt="Frontend Tech Stack" />
-  
-  <br/>
-  <p><b>Backend & Database</b></p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java,firebase,supabase,postgres" alt="Backend Tech Stack" />
-  
-  <br/>
-  <p><b>AI/ML & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,linux" alt="AI and Tools" />
-</div>
-
-<br/>
-
 <div align="center">
   <h2>⚡ GitHub Stats</h2>
   <img src="https://streak-stats.vercel.app/?user=ShravanGupta07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
